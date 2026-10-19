@@ -7,4 +7,4 @@ Dataset for predicting whether a hotel booking will be cancelled (coursework, No
 | `Hotel Reservations.csv` | Kaggle *Hotel Reservations* data: guests, nights, meal plan, room type, lead time, market segment, average room price, special requests, and `booking_status` (Canceled / Not_Canceled) |
 
 The model that uses this data, an ANN evaluated with stratified k-fold cross-validation, is in
-[`Deep-learning/11_26_kfold_reservation.ipynb`](https://github.com/Woominju/Deep-learning/blob/main/11_26_kfold_reservation.ipynb).
+[`deep-learning-coursework/11_26_kfold_reservation.ipynb`](https://github.com/Woominju/deep-learning-coursework/blob/main/11_26_kfold_reservation.ipynb).
